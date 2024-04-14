@@ -1,1 +1,2 @@
 # SMX_degradation_ML
+A machine-learning implementation that learns the interactive effects of urine components, treatment condition, and SMX degradation rate in TAP-MD system. Please refer to our work "Interactive Effects of Urine Components and Treatment Conditions on Antibiotic Degradation of Combined System Integrating Thermally Activated Peroxydisulfate and Membrane Distillation Using Machine Learning" for additional details.
