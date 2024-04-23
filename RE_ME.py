@@ -8,7 +8,7 @@ from sklearn.metrics import r2_score,mean_squared_error, mean_absolute_error
 import matplotlib.pyplot as plt
 
 # 读取文件原始数据
-data_list=pd.read_excel(r'D:\论文集\实验数据\antibiotics\with temp and PDS\data with temp and PDS.xlsx', header=0)
+data_list=pd.read_excel(r'data.xlsx', header=0)
 X_nonstandard=data_list[['urea','Cl','HCO','NH','temp', 'PDS']]
 y=data_list['kobs']
 
